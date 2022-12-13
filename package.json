@@ -12,6 +12,6 @@
     "botbuilder-adapter-web": "^1.0.8",
     "botkit": "^4.9.0",
     "botkit-plugin-cms": "^1.0.3",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
